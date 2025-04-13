@@ -9,7 +9,7 @@ I specialize in SOC operations, threat detection, and cyber defense practices th
 
 ## 🔍 About Me
 
-- **Current Role**: IT Specalist | Student | Cybersecurity Enthusiast  
+- **Current Role**: IT Specialist | Student | Cybersecurity Enthusiast  
 - **Location**: Canton,MI 
 - **Focus Areas**: Incident response, SIEM tools, vulnerability analysis, network defense  
 - **Goal**: To protect organizations from evolving cyber threats through innovative, proactive defense strategies.
@@ -19,7 +19,7 @@ I specialize in SOC operations, threat detection, and cyber defense practices th
 ## 🚧 Projects
 
 ### 🟢 Current Projects
-- **Home Defense AI** *(Independent)*  
+- **Home Defense AI** *(Home)*  
   Building a Raspberry Pi-powered AI tool to monitor network traffic and detect anomalies in home networks.  
   _Technologies_: Python, Scapy, Machine Learning, Wireshark  
 
@@ -28,7 +28,7 @@ I specialize in SOC operations, threat detection, and cyber defense practices th
   _Tools_: Splunk, Elastic, Wireshark
 
 ### 📅 Upcoming Projects
-- **OSINT Intelligence Dashboard** *(Independent)*  
+- **OSINT Intelligence Dashboard** *(Home)*  
   Web-based dashboard that collects and visualizes real-time cyber threat intelligence feeds using open-source APIs.
 
 - **Capstone: Incident Response Plan Design** *(School Project)*  
@@ -98,8 +98,8 @@ Make sure to keep the resume file updated in the `/files` folder of this reposit
 ## 📬 Contact
 
 - **Email**: Kaleb.cash.wade@gmail.com  
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [github.com/yourusername](http://github.com/KalebCWedu)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kaleb-cash-wade-278792219/)
 
 ---
 
