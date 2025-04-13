@@ -41,7 +41,7 @@ I specialize in SOC operations, threat detection, and cyber defense practices th
 - **Phishing Awareness Campaign** *(Workplace Project)*  
   Designed educational materials and conducted mock phishing tests to raise awareness across a company team.
 
-  -**Server Staging and Deployment** *(Workplace Project)*
+- **Server Staging and Deployment** *(Workplace Project)*
 
 ---
 
@@ -98,8 +98,8 @@ Click below to view or download my latest resume:
 ## 📬 Contact
 
 - **Email**: Kaleb.cash.wade@gmail.com  
-- **GitHub**: [github.com/yourusername](http://github.com/KalebCWedu)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kaleb-cash-wade-278792219/)
+- **GitHub**: [github.com/KalebCWedu](http://github.com/KalebCWedu)  
+- **LinkedIn**: [linkedin.com/in/Kaleb Cash-Wade](https://www.linkedin.com/in/kaleb-cash-wade-278792219/)
 
 ---
 
