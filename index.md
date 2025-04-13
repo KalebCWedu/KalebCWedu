@@ -1,16 +1,16 @@
 # Welcome to My Cybersecurity Portfolio
 
-Hi, I'm [Your Name], an aspiring Cybersecurity Analyst passionate about defending digital systems and solving complex security challenges.  
+Hi, I'm Kaleb Cash-Wade, an aspiring Cybersecurity Analyst passionate about defending digital systems and solving complex security challenges.  
 I specialize in SOC operations, threat detection, and cyber defense practices through hands-on experience, coursework, and independent learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kaleb-cash-wade-278792219/)
 
 ---
 
 ## 🔍 About Me
 
-- **Current Role**: SOC Analyst | Student | Cybersecurity Enthusiast  
-- **Location**: [Your City, State]  
+- **Current Role**: IT Specalist | Student | Cybersecurity Enthusiast  
+- **Location**: Canton,MI 
 - **Focus Areas**: Incident response, SIEM tools, vulnerability analysis, network defense  
 - **Goal**: To protect organizations from evolving cyber threats through innovative, proactive defense strategies.
 
@@ -47,12 +47,12 @@ I specialize in SOC operations, threat detection, and cyber defense practices th
 
 Here are some of my earned credentials:
 
-- ![Badge](badges/securityplus.png) **CompTIA Security+** *(Expected June 2025)*  
-- ![Badge](badges/google_cert.png) **Google Cybersecurity Certificate**  
-- ![Badge](badges/tryhackme.png) **TryHackMe: SOC Level 1**  
+- ![Badge](badges/badges/CompTIA A+ ce certificate.pdf) **CompTIA A+**   
+- ![Badge](badges/badges/CompTIA Security+ ce certificate.pdf) **CompTIA Security+**  
+- ![Badge](badges/badges/CompTIA Network+ ce certificate.pdf) **CompTIA Network+**  
 
-➡️ You can [upload or add new badges here](#) (link to GitHub badge folder or page)
-
+➡️ You can [badges(#) (link to GitHub badge folder or page)
+](https://github.com/KalebCWedu/KalebCWedu/tree/a6afb14a41def700c3536e879b3c1522d3d1a9ce/badges)
 ---
 
 ## 🛠 Skills & Tools
@@ -97,7 +97,7 @@ Make sure to keep the resume file updated in the `/files` folder of this reposit
 
 ## 📬 Contact
 
-- **Email**: youremail@example.com  
+- **Email**: Kaleb.cash.wade@gmail.com  
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
