@@ -41,6 +41,8 @@ I specialize in SOC operations, threat detection, and cyber defense practices th
 - **Phishing Awareness Campaign** *(Workplace Project)*  
   Designed educational materials and conducted mock phishing tests to raise awareness across a company team.
 
+  -**Server Staging and Deployment** *(Workplace Project)*
+
 ---
 
 ## 🏅 Certifications & Badges
@@ -71,16 +73,14 @@ Here are some of my earned credentials:
 
 - **[How I Built My First SOC Lab](blog/how-i-built-my-soc-lab.md)**  
   _Published: April 2025_  
-  → ⭐ 12 Likes | 💬 4 Comments
+
 
 - **[OSINT Case Study: Real-World Threat Hunt](blog/osint-case-study.md)**  
   _Published: March 2025_  
-  → ⭐ 7 Likes | 💬 3 Comments
+  
 
 ➡️ [Write a new blog post](#) or [edit existing](#)
 
-🗨️ Comments powered by [Disqus](https://disqus.com/) or [GitHub Discussions](https://docs.github.com/en/discussions)  
-👍 Like system can be integrated with JavaScript or external tools
 
 ---
 
@@ -91,7 +91,7 @@ Click below to view or download my latest resume:
 - [View Resume (PDF)](files/Your_Name_Resume.pdf)  
 - [Download Resume](files/Your_Name_Resume.pdf) ⬇️  
 
-Make sure to keep the resume file updated in the `/files` folder of this repository.
+
 
 ---
 
