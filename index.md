@@ -47,9 +47,9 @@ I specialize in SOC operations, threat detection, and cyber defense practices th
 
 Here are some of my earned credentials:
 
-- ![Badge](badges/badges/CompTIA A+ ce certificate.pdf) **CompTIA A+**   
-- ![Badge](badges/badges/CompTIA Security+ ce certificate.pdf) **CompTIA Security+**  
-- ![Badge](badges/badges/CompTIA Network+ ce certificate.pdf) **CompTIA Network+**  
+- ![Badge](badges/badges/badges/CompTIA A+ ce certificate.jpg) **CompTIA A+**   
+- ![Badge](badges/badges/badges/CompTIA Security+ ce certificate_page-0001.jpg) **CompTIA Security+**  
+- ![Badge](badges/badges/badges/CompTIA Network+ ce certificate_page-0001.jpg) **CompTIA Network+**  
 
 ➡️ You can [badges(#) (link to GitHub badge folder or page)
 ](https://github.com/KalebCWedu/KalebCWedu/tree/a6afb14a41def700c3536e879b3c1522d3d1a9ce/badges)
